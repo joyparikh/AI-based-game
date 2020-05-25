@@ -10,6 +10,6 @@ Changelog0.2 : Forking the possible game AIs based on(hence 4 files with 4 AI im
 3. Genetic/Generational NN
 4. Behavioural Decision Trees
 
-Changelog0.3 : FSM implementation done. You'll have 2 enemies to beat. The first one statrs following you mindlessly when you're close to it and you die if it touches you, but it can be beaten pretty easily. The second one is a bit advanced and it blocks attacks when you're close to it...but allows attacks when you're close enough, should be a little difficult to beat as it is pretty quick.  
+Changelog0.3 : FSM implementation done. You'll have 2 enemies to beat. The first one starts following you mindlessly when you're close to it and you die if it touches you, but it can be beaten pretty easily. The second one is a bit advanced and it blocks attacks when you're close to it...but allows attacks when you're close enough, should be a little difficult to beat as it is pretty quick.  
 
 Gen views on FSM : Not really an AI. Just a smart manner of saving yourselves from writing too many if-else ladders. Still pretty boring as some if-else cannot be avoided looking forward to MCST, after cleaning the FSM code a little.
