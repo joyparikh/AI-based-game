@@ -9,3 +9,5 @@ Changelog0.2 : Forking the possible game AIs based on(hence 4 files with 4 AI im
 2. Monte Carlo Search Tree
 3. Genetic/Generational NN
 4. Behavioural Decision Trees
+
+Jumped onto GNN a bit early. MCST and BDT seemes to be linked and hence it makes sense to implement it first. Will implement a behavioral decition tree first.
